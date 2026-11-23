@@ -2,7 +2,7 @@ This project is an exercise of Free Speech under the US Constitution First Amend
 
 Full-disclosure happening as a last-resort effort on my part to mitigate risk.
 
-Repository contains reports from "Box of Rain Project" wrt exposed door controllers in CONUS critical infrastructure:  hospitals, power utilities, schools, places of worship, college dorms are examples in to 40+ reports.
+Repository contains reports from "Box of Rain Project" wrt exposed door controllers in CONUS critical infrastructure:  hospitals, power utilities, schools, places of worship, college dorms are examples in 40+ reports.
 
 Reports all sent to CISA.  Healthcare facility reports sent to both CISA and Health-ISAC.  Reports also sent to CERT/CC.
 
