@@ -13,4 +13,6 @@ CISA and Health-ISAC both refuse to respond to SecurityWeek journalist inquiries
 "Health-ISAC has not responded to SecurityWeek and CISA said it will not be commenting." -- SecurityWeek article: "Researcher Says Healthcare Facility’s Doors Hackable for Over a Year" (2024-09-25)
 https://www.securityweek.com/researcher-says-healthcare-facilitys-doors-hackable-for-over-a-year/
 
+Note additional findings are added to this repository on a ad-hoc on-going basis, and the Box of Rain Project is now immediate full-disclosure wrt new findings.  Given current project scope and time restraints, new findings are recorded as screenshots in .png, and are not full reports in PDF as delivered in the original Box of Rain project reporting format.
+
 Shawn Merdinger
