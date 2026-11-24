@@ -15,6 +15,6 @@ https://www.securityweek.com/researcher-says-healthcare-facilitys-doors-hackable
 
 Note additional findings are added to this repository on a ad-hoc on-going basis, and the Box of Rain Project is now immediate full-disclosure wrt new findings.
 
-Given current project scope and time restraints, new findings are recorded as screenshots in .png, and are not full reports in PDF as delivered in the original Box of Rain project reporting format.  Box of Rain Project reports are denoted in the filename, start with "Box of Rain" and are in PDF and stem from 2003 research.
+Given current project scope and time restraints, new findings are recorded as screenshots in .png, and are not full reports in PDF as delivered in the original Box of Rain project reporting format.  Box of Rain Project reports are denoted in the filename, start with "Box of Rain" and are in PDF and stem from 2023 research.
 
 Shawn Merdinger
